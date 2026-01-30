@@ -10,7 +10,7 @@
 
 Вот тут оставим ссылку на [Яндекс](https://www.yandex.ru "Это Яндекс")
 
-'''bash
+```bash
 git add --all
 git commit - m
-'''
+```
